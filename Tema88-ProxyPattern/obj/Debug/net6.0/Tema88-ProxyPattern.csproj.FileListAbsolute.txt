@@ -1,0 +1,15 @@
+C:\Data\charp\Teme\Tema88-ProxyPattern\Tema88-ProxyPattern\bin\Debug\net6.0\Tema88-ProxyPattern.exe
+C:\Data\charp\Teme\Tema88-ProxyPattern\Tema88-ProxyPattern\bin\Debug\net6.0\Tema88-ProxyPattern.deps.json
+C:\Data\charp\Teme\Tema88-ProxyPattern\Tema88-ProxyPattern\bin\Debug\net6.0\Tema88-ProxyPattern.runtimeconfig.json
+C:\Data\charp\Teme\Tema88-ProxyPattern\Tema88-ProxyPattern\bin\Debug\net6.0\Tema88-ProxyPattern.dll
+C:\Data\charp\Teme\Tema88-ProxyPattern\Tema88-ProxyPattern\bin\Debug\net6.0\ref\Tema88-ProxyPattern.dll
+C:\Data\charp\Teme\Tema88-ProxyPattern\Tema88-ProxyPattern\bin\Debug\net6.0\Tema88-ProxyPattern.pdb
+C:\Data\charp\Teme\Tema88-ProxyPattern\Tema88-ProxyPattern\obj\Debug\net6.0\Tema88-ProxyPattern.csproj.AssemblyReference.cache
+C:\Data\charp\Teme\Tema88-ProxyPattern\Tema88-ProxyPattern\obj\Debug\net6.0\Tema88-ProxyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\charp\Teme\Tema88-ProxyPattern\Tema88-ProxyPattern\obj\Debug\net6.0\Tema88-ProxyPattern.AssemblyInfoInputs.cache
+C:\Data\charp\Teme\Tema88-ProxyPattern\Tema88-ProxyPattern\obj\Debug\net6.0\Tema88-ProxyPattern.AssemblyInfo.cs
+C:\Data\charp\Teme\Tema88-ProxyPattern\Tema88-ProxyPattern\obj\Debug\net6.0\Tema88-ProxyPattern.csproj.CoreCompileInputs.cache
+C:\Data\charp\Teme\Tema88-ProxyPattern\Tema88-ProxyPattern\obj\Debug\net6.0\Tema88-ProxyPattern.dll
+C:\Data\charp\Teme\Tema88-ProxyPattern\Tema88-ProxyPattern\obj\Debug\net6.0\ref\Tema88-ProxyPattern.dll
+C:\Data\charp\Teme\Tema88-ProxyPattern\Tema88-ProxyPattern\obj\Debug\net6.0\Tema88-ProxyPattern.pdb
+C:\Data\charp\Teme\Tema88-ProxyPattern\Tema88-ProxyPattern\obj\Debug\net6.0\Tema88-ProxyPattern.genruntimeconfig.cache
